@@ -31,9 +31,9 @@
       "metallic": 0.2,
       "emissive": {
         "__type__": "cc.Color",
-        "r": 2,
-        "g": 2,
-        "b": 2,
+        "r": 74,
+        "g": 74,
+        "b": 74,
         "a": 255
       },
       "mainTexture": {
